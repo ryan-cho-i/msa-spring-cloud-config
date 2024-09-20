@@ -4,6 +4,3 @@ token:
 
 gateway:
   ip: 74.102.125.219
-
-greeting:
-  message: Welcome to the Simple E-commerce
