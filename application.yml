@@ -1,9 +1,9 @@
 token:
   expiration_time: 86400000
-  secret: abcdefghijklmnopqrstuvwxyz123456ABCDEFGHIJKLMNOPQRSTUVWXYZ789012
+  secret: my_token_default_abcdefghijklmnopqrstuvwxyz123456ABCDEFGHIJKLMNOPQRSTUVWXYZ789012
 
 gateway:
   ip: 74.102.125.219
 
 greeting:
-  message: Welcome to the Simple E-commerce
+  message: Welcome to the Simple E-commerce Default-Server
