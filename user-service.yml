@@ -1,0 +1,16 @@
+spring:
+    datasource:
+      driver-class-name: org.h2.Driver
+      url: jdbc:h2:mem:testdb
+      username: sa
+      password: "{cipher}d2f443cc98d9babd15634aab2c436a8be0f0c5453e595b3fc14a2767ce898eb1"
+
+token:
+  expiration_time: 86400000
+  secret: my_token_dev_abcdefghijklmnopqrstuvwxyz123456ABCDEFGHIJKLMNOPQRSTUVWXYZ789012
+
+gateway:
+  ip: 74.102.125.219
+
+greeting:
+  message: Welcome to the Simple E-commerce Dev-Server
